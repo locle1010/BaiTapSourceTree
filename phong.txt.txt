@@ -1,2 +1,8 @@
 Day la bai tap Git Tools
+
 Them dong thu hai cho commit
+
+Them dong thu hai cho commit
+Dong thu ba cho squash
+Dong thu tu cho squash
+
