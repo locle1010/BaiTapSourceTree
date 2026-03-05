@@ -1,1 +1,2 @@
 Day la bai tap Git Tools
+Them dong thu hai cho commit
